@@ -16,6 +16,9 @@ Full-featured CMS including blog, wiki, discussion, etc. powered by SpringBoot.
 - MySQL 5.7
 - Redis 4/5
 - Nginx
+###编译前准备
+
+其中有一个大坑请注意,centos7,8下编译会有错误,编译请选择Ubuntu,18以上编译成功.
 
 ### Build
 
